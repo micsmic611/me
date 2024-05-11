@@ -1,0 +1,64 @@
+html,
+body {
+  height: 50%;
+}
+
+body {
+  padding-top: 5rem;
+  background-color:#FFE4B5
+  ;
+}
+
+.form-signin {
+  max-width: 30rem;
+  margin: auto;
+  
+}
+body { font-family: sans-serif
+  ; 
+} 
+header { background-color: #f0f0f0; padding: 20px
+  ; 
+} 
+h1 { text-align: center
+  ; 
+} 
+.สินค้า { margin: 20px
+  ; 
+} 
+.สินค้า-รายการ { display: flex; flex-wrap: wrap; justify-content: space-between
+  ; 
+} 
+.สินค้า-ชิ้น { width: 25%; padding: 10px; border: 1px solid #ccc; text-align: center
+  ; 
+} 
+.สินค้า-ชิ้น img { width: 100%; height: auto; margin-bottom: 10px 
+  ; } 
+  .ราคา { font-weight: bold
+    ;
+  }
+  body, html {
+    height: 100%;
+    line-height: 1.8;
+    background-color:tan
+  }
+  
+  /* Full height image header */
+  .bgimg-1 {
+    background-position: center;
+    background-size: cover;
+    background-image: url("/งานนนนบิว/งานจารกุ้ง/funeral-flower019.webp");
+    min-height: 100%;
+    background-color:gray; 
+    
+  }
+  
+  .w3-bar .w3-button {
+    padding: 16px;font-size: 20px;
+  }
+  .w3-container {
+    margin-top: 10px;}
+  .w3-center  {
+    margin-bottom: 10px;}
+  .w3-jumbo {color:black;font-size: 90px; }
+  .w3-xlarge {text-decoration: none;}
